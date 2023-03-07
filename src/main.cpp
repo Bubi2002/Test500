@@ -31,7 +31,7 @@ int main() {
             // ...
             // ...
             ClearBackground(WHITE);
-            DrawText("Hello, world!", 10, 10, 30, LIGHTGRAY);
+            DrawText("whats uppppp yooo brudi!", 10, 10, 30, BLUE);
             DrawTexture(myTexture, 10, 100, WHITE);
 
         EndDrawing();
